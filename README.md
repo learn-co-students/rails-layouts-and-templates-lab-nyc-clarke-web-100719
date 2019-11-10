@@ -7,7 +7,7 @@ at least some layouts and controllers for an online store. Not only will you
 learn how to create a layout and how to get an action to use that layout but
 also how to override defaults and specify layouts on the action level.
 
-## The Default Layout
+### The Default Layout
 
 1. Make a new controller called `StaticController`.
 
